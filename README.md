@@ -1,5 +1,14 @@
 # 🚲 Bicycle & Cycling Gear Sales — SQL Server EDA
 
+![SQL Server](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EXPLORATORY%20DATA%20ANALYSIS-4CAF50?style=for-the-badge)
+![Business Insights](https://img.shields.io/badge/BUSINESS%20INSIGHTS-8E44AD?style=for-the-badge)
+![Window Functions](https://img.shields.io/badge/WINDOW%20FUNCTIONS-FF9800?style=for-the-badge)
+![CTEs](https://img.shields.io/badge/CTEs-00ACC1?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/DATA%20WAREHOUSE-3949AB?style=for-the-badge)
+![Completed](https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge)
+
 End-to-end exploratory data analysis on a retail sales data warehouse (`gold` schema — star model with `dim_customers`, `dim_products`, `fact_sales`) using T-SQL in SSMS, turning ~27.6K orders into product, customer, and revenue insights.
 
 **Tools:** SQL Server / SSMS (T-SQL) · Window Functions · CTEs · `UNION ALL` metric rollups
