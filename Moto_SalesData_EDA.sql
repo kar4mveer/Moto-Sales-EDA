@@ -1,5 +1,5 @@
 /*==========================================================
-            SQL EDA PROJECT - SALES ANALYSIS
+            SQL EDA PROJECT - MOTO SALES ANALYSIS
 ==========================================================*/
 
 USE DataWarehouseAnalytics
